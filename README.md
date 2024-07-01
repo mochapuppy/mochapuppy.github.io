@@ -1,3 +1,3 @@
-# My Portfolio and Docs
+## My portfolio and docs
 
-To access this site, please visit: https://mochapuppy.github.io/
+https://mochapuppy.github.io/
